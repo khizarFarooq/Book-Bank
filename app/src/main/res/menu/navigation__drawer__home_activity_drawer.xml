@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+    <item android:id="@+id/home" android:title="@string/home_drawer" android:icon="@drawable/ic_home"></item>
+    <item android:id= "@+id/myAccount"   android:title="@string/my_account_drawer" android:icon="@drawable/ic_user_icon_2"></item>
+    <item android:id= "@+id/viewOtheRequest"   android:title="@string/other_requests_drawer" android:icon="@drawable/ic_others_requests_2"></item>
+    <item android:id= "@+id/postARequest"   android:title="@string/post_a_request_drawer" android:icon="@drawable/ic_post_a_request_2"></item>
+    <item android:id= "@+id/myRequests"   android:title="@string/my_requests_drawer" android:icon="@drawable/ic_own_request_1"></item>
+    <item android:id= "@+id/ContactUs"   android:title="@string/contact_us_drawer" android:icon="@drawable/ic_contact_us"></item>
+        <item android:id= "@+id/viewSetting"   android:title="@string/view_setting_drawer" android:icon="@drawable/ic_setting"></item>
+    <item android:id= "@+id/signOut"   android:title="@string/signout_drawer" android:icon="@drawable/ic_logout"></item>
+    </group>
+</menu>

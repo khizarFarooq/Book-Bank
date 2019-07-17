@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "790456212113",
+    "firebase_url": "https://bookbank-3766f.firebaseio.com",
+    "project_id": "bookbank-3766f",
+    "storage_bucket": "bookbank-3766f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790456212113:android:1fcf08955e84fa6a",
+        "android_client_info": {
+          "package_name": "com.namaltechnologysolutions.bunny.bookbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790456212113-of73siq9ur3od272gmlrolkf0g01mpk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.namaltechnologysolutions.bunny.bookbank",
+            "certificate_hash": "1fd2b444d2ce1000d5b0891eebfbee8584fbd6a7"
+          }
+        },
+        {
+          "client_id": "790456212113-ou10kfmb0t99f9mpfmnvt2mnac2tssih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjPorqVvYAgn8XFI20fdU1XZ1-FuSIPeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790456212113-ou10kfmb0t99f9mpfmnvt2mnac2tssih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

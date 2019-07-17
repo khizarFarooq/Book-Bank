@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Bank</string>
+    <string name="Login_Or_Register">لاگ ان یا رجسٹر</string>
+    <string name="Book_Bank">کتاب بینک</string>
+    <string name="donate_your_unwanted_books_and_help_to_fight_poverty">غربت سے لڑنے میں مدد کے لئے اپنی ناپسندیدہ کتابیں عطیہ کریں</string>
+    <string name="name">نام</string>
+    <string name="Phone_number">رابطہ نمبر</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="confirm_password">پاس ورڈ کی توثیق کریں</string>
+    <string name="select_city">شہر منتخب کریں</string>
+    <string name="sign_up">سائن اپ</string>
+    <string name="have_an_account">کیا اکاؤنٹ ہے؟</string>
+    <string name="login">لاگ ان کریں</string>
+    <string name="login_with_facebook">فیس بک لاگ ان کریں</string>
+    <string name="or">یا</string>
+    <string name="Sign_up_with_your">اپنے ای میل ایڈریس کے ساتھ سائن اپ کریں</string>
+    <string name="Mobile_Phone">موبائل فون</string>
+    <string name="remember_me">یاد رکھیں</string>
+    <string name="forget_password">کیا آپ پاس ورڈ بھول گئے ہیں؟</string>
+    <string name="Login">لاگ ان کریں</string>
+    <string name="don_t_have_an_account">کیا آپ اکاؤنٹ نہیں رکھتے ؟</string>
+    <string name="Sign_up">سائن اپ</string>
+    <string name="phone_number_verification_code_sent">فون نمبر کی توثیق کوڈ بھیج دی گئی.</string>
+    <string name="type_verfication_code_here">یہاں توثیقی کوڈ لکھیں</string>
+    <string name="verify">تصدیق کریں</string>
+    <string name="resend">دوبارہ بھیجیں</string>
+    <string name="welcome_to_contact_us">خیر مقدم ہم سے رابطہ کرنے کا</string>
+    <string name="we_are_here_to_answer_any_question_you_may_have_about_service_reach_out_to_us_through_given_below_channel_and_we_ll_respond_as_soon_we_can">ہم کسی بھی سوال کا جواب دینے کے لئے یہاں ہیں جو ہماری سروس کے بارے میں ہو سکتے ہیں. ذیل میں چینل کے ذریعہ ہم سے رابطہ کریں اور جلد ہی ہم جواب دیں گے.</string>
+    <string name="sign_in">داخلہ</string>
+    <string name="other_request">دوسری درخواست</string>
+    <string name="post_a_request"> درخواست پوسٹ کریں</string>
+    <string name="contact_us">ہم سے رابطہ کریں</string>
+    <string name="share_app">ایپ کا اشتراک کریں</string>
+    <string name="others_request">دوسری درخواست</string>
+    <string name="other_requests">دوسری درخواست</string>
+    <string name="post_a_request_headline"> درخواست پوسٹ کریں</string>
+    <string name="city_Selection_quote">اگر آپ کا شہر درج نہیں کیا گیا ہے تو، براہ کرم دیگر کو منتخب کریں اور وضاحت میں اپنے شہر کا ذکر کریں.</string>
+    <string name="themes">تھیم</string>
+    <string name="select_a_theme">تھیم منتخب کریں</string>
+    <string name="language">زبان</string>
+    <string name="select_language">زبان منتخب کریں</string>
+    <string name="submit">اپ لوڈ کریں</string>
+    <string name="description">تفصیل</string>
+    <string name="khizar_dogar">خضر ڈاگر</string>
+    <string name="email_address">ای میل اڈریس</string>
+    <string name="address">ایڈریس</string>
+    <string name="request">درخواست</string>
+    <string name="Name">نام</string>
+    <string name="Password">پاس ورڈ</string>
+    <string name="Confirm_password">تصدیق پاس ورڈ</string>
+    <string name="Select_city">Select City</string>
+    <string name="Sign_in">سائن ان</string>
+    <string name="home_drawer">گھر</string>
+    <string name="my_account_drawer">میرا اکاونٹ</string>
+    <string name="other_requests_drawer">دیگر درخواستیں</string>
+    <string name="post_a_request_drawer">درخواست پوسٹ کریں</string>
+    <string name="my_requests_drawer">میری درخواستیں</string>
+    <string name="contact_us_drawer">ہم سے رابطہ کریں</string>
+    <string name="view_setting_drawer">ترتیب دیں</string>
+    <string name="share_app_drawer">ایپ کا اشتراک کریں</string>
+    <string name="rate_us_drawer">ہمیں شرح</string>
+    <string name="signout_drawer">لاگ آوٹ</string>
+    <string name="e_mail_verification">ای میل کی توثیق</string>
+    <string name="update_password">پاس ورڈ اپ ڈیٹ کریں</string>
+    <string name="update">اپ ڈیٹ</string>
+    <string-array name="cityList">
+        <item>شہر منتخب کریں</item>
+        <item>ایبٹ آباد</item>
+        <item>احمدپور مشرقی تحصیل</item>
+        <item>ژٹک</item>
+        <item>بدین</item>
+        <item>بہول نگر</item>
+        <item>بہاولپور</item>
+        <item>بھولوال</item>
+        <item>بیمبر</item>
+        <item>بیورو والا</item>
+        <item>چاکوال</item>
+        <item>چمن</item>
+        <item>چارسدہ</item>
+        <item>جئچث</item>
+        <item>چشیتان</item>
+        <item>چترال</item>
+        <item>ڈی آئی خان</item>
+        <item>دادو</item>
+        <item>ڈیرہ غازی خان</item>
+        <item>ڈیرہ اسماعیل خان</item>
+        <item>فیصلآباد</item>
+        <item>گلگت</item>
+        <item>گواجرا</item>
+        <item>گجر خان</item>
+        <item>گوجرانوالہ</item>
+        <item>گجرات</item>
+        <item>گوادر</item>
+        <item>حافظ آباد</item>
+        <item>ہار پور</item>
+        <item>حیدرآباد</item>
+        <item>اسلام آباد</item>
+        <item>جیکب آباد</item>
+        <item>جرانوالہ</item>
+        <item>جھنگ</item>
+        <item>جہلم</item>
+        <item>کمالیا</item>
+        <item>کراچی</item>
+        <item>قصور</item>
+        <item>خیرپور</item>
+        <item>خانیوال</item>
+        <item>خانپور</item>
+        <item>خشاب</item>
+        <item>خضدار</item>
+        <item>کوہاٹ</item>
+        <item>کوٹ ایڈو</item>
+        <item>کوٹلی</item>
+        <item>کامک</item>
+        <item>لاہور</item>
+        <item>لاڑکانہ</item>
+        <item>منڈی بہا الدین</item>
+        <item>مانسہرہ</item>
+        <item>مردان</item>
+        <item>مینیوالی</item>
+        <item>منگوری</item>
+        <item>میرپور خاص</item>
+        <item>ملتان</item>
+        <item>مریدکے</item>
+        <item>مرے</item>
+        <item>مظفرآباد</item>
+        <item>مظفرگڑھ</item>
+        <item>نوابشاہ</item>
+        <item>نووشرعا</item>
+        <item>اوکاڑہ</item>
+        <item>پاکپتن</item>
+        <item>پشاور</item>
+        <item>پنڈ دادن خان</item>
+        <item>کوئٹہ</item>
+        <item>رحیم يار خان</item>
+        <item>راولکولٹ</item>
+        <item>راولپنڈی</item>
+        <item>صادق آباد</item>
+        <item>ساہیوال</item>
+        <item>سرگودھا</item>
+        <item>صوابی</item>
+        <item>شیخوپورہ</item>
+        <item>شکارپور</item>
+        <item>سیالکوٹ</item>
+        <item>سکارڈو</item>
+        <item>سکھر</item>
+        <item>سوابی</item>
+        <item>سوات</item>
+        <item>ٹنڈو آدم</item>
+        <item>ٹنڈو الہارار</item>
+        <item>ٹیکسلا</item>
+        <item>ٹھٹا</item>
+        <item>تیمرگرہ</item>
+        <item>توبہ تک سنگھ</item>
+        <item>تربت</item>
+        <item>وہاڑی</item>
+        <item>وہ کنٹونمنٹ</item>
+        <item>وزیرآباد</item>
+        <item>زیارت</item>
+        <item>دیگر شہر</item>
+    </string-array>
+</resources>

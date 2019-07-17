@@ -1,0 +1,44 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.namaltechnologysolutions.bunny.bookbank.Fragment.Others_Request_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/round_view"
+        >
+        <EditText
+            android:id="@+id/keywords"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:hint="Find other requests by city."
+            android:inputType="text"/>
+        <ImageView
+            android:saveEnabled="false"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_search"
+            android:padding="8dp"
+            android:contentDescription="@string/email_icon" />
+    </LinearLayout>
+    <android.support.v7.widget.RecyclerView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id="@+id/othersRequestRecyclerView">
+
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>
+</ScrollView>

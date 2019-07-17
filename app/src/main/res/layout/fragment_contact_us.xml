@@ -1,0 +1,63 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginRight="30dp"
+    android:layout_marginLeft="30dp"
+    android:layout_gravity="center"
+    tools:context="com.namaltechnologysolutions.bunny.bookbank.Fragment.Contact_Us_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_to_contact_us"
+        android:textStyle="bold"
+        android:textColor="?attr/skyColor"
+        android:textSize="22sp"
+        android:layout_gravity="center"/>
+            <TextView
+                android:textSize="14sp"
+                android:id="@+id/address1"
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:maxLines="4"
+                android:lines="4"
+                android:layout_marginTop="8dp"
+                android:textColor="?attr/black"
+                android:text="@string/we_are_here_to_answer_any_question_you_may_have_about_service_reach_out_to_us_through_given_below_channel_and_we_ll_respond_as_soon_we_can"></TextView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp"
+            android:gravity="center">
+            <ImageView
+                android:id="@+id/diller_icon"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ic_diller"
+                android:padding="8dp"
+                android:contentDescription="@string/diller_icon" />
+            <ImageView
+                android:id="@+id/mail_icon"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ic_post_a_request_1"
+                android:padding="8dp"
+                android:layout_margin="10dp"
+                android:contentDescription="@string/mail_icon" />
+
+        </LinearLayout>
+
+</LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Book Bank</string>
+    <string name="open">opne</string>
+    <string name="close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Book_Bank">Book Bank</string>
+    <string name="donate_your_unwanted_books_and_help_to_fight_poverty">Donate your unwanted books and help to fight poverty</string>
+    <string name="user_icon">User_Icon</string>
+    <string name="name">Name</string>
+    <string name="diller_icon">diller_icon</string>
+    <string name="Phone_number">Contact No</string>
+    <string name="lock_icon">Lock Icon</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="select_city">Select City</string>
+    <string name="sign_up">Sign up</string>
+    <string name="have_an_account">Have an account ?</string>
+    <string name="login">Login</string>
+    <string name="login_with_facebook">Login with facebook</string>
+    <string name="or">or</string>
+    <string name="Sign_up_with_your">Sign up with your </string>
+    <string name="Mobile_Phone">Mobile Phone</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="Login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="line1">line1</string>
+    <string name="line2">line2</string>
+    <string name="phone_number_verification_code_sent">Phone number verification Code sent.</string>
+    <string name="type_verfication_code_here">Type Verification Code Here</string>
+    <string name="verify">Verify</string>
+    <string name="resend">Resend</string>
+    <string name="welcome_to_contact_us">Welcome to Contact Us</string>
+    <string name="mail_icon">mail icon</string>
+    <string name="we_are_here_to_answer_any_question_you_may_have_about_service_reach_out_to_us_through_given_below_channel_and_we_ll_respond_as_soon_we_can">We are here to answer any question you may have about service.Reach out to us through given below channel and we\'ll respond as soon we can.</string>
+    <string name="web_icon">Web Icon</string>
+    <string name="sign_in">Sign In</string>
+    <string name="other_request">Other Request</string>
+    <string name="post_a_request">Post a Request</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="share_app">Share App</string>
+    <string name="others_request">Others Request</string>
+    <string name="other_requests">Other Requests</string>
+    <string name="post_a_request_headline">Post a Request</string>
+    <string name="submit">Submit</string>
+    <string name="description">Description</string>
+    <string name="khizar_dogar">Khizar Dogar</string>
+    <string name="Name">Name</string>
+    <string name="Password">Password</string>
+    <string name="Confirm_password">Confirm Password</string>
+    <string name="Select_city">Select City</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="email_icon">email_Icon</string>
+    <string-array name="theme">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="language">
+        <item>English</item>
+        <item>Urdu</item>
+    </string-array>
+    <string-array name="cityList">
+        <item>Select City</item>
+        <item>Abbottabad</item>
+        <item>Ahmadpur East Tehsil</item>
+        <item>Attock</item>
+        <item>Badin</item>
+        <item>Bahawalnagar</item>
+        <item>Bahawalpur</item>
+        <item>Bhalwal</item>
+        <item>Bhimber</item>
+        <item>Burewala</item>
+        <item>Chakwal</item>
+        <item>Chaman</item>
+        <item>Charsada</item>
+        <item>Chinot</item>
+        <item>Chishtian</item>
+        <item>Chitral</item>
+        <item>D.I.Khan</item>
+        <item>Dadu</item>
+        <item>Dera Ghazi Khan</item>
+        <item>Dera Ismail Khan</item>
+        <item>Faisalabad</item>
+        <item>Gilgit</item>
+        <item>Gojra</item>
+        <item>Gujar Khan</item>
+        <item>Gujrawala</item>
+        <item>Gujrat</item>
+        <item>Gawadar</item>
+        <item>Hafizabad</item>
+        <item>Haripur</item>
+        <item>Hyderabad</item>
+        <item>Islamabad</item>
+        <item>Jacobabad</item>
+        <item>Jaranwala</item>
+        <item>Jhang</item>
+        <item>Jhelum</item>
+        <item>Kamalia</item>
+        <item>Karachi</item>
+        <item>Kasur</item>
+        <item>KhairPur</item>
+        <item>Khanewal</item>
+        <item>Khanpur</item>
+        <item>Khushab</item>
+        <item>Khuzdar</item>
+        <item>Kohat</item>
+        <item>Kot Adu</item>
+        <item>Kotli</item>
+        <item>Kamoke</item>
+        <item>Lahore</item>
+        <item>Larakana</item>
+        <item>Mandi Bahauddin</item>
+        <item>Mansehra</item>
+        <item>Mardan</item>
+        <item>Mianwali</item>
+        <item>Mingore</item>
+        <item>Mirpur Khas</item>
+        <item>Multan</item>
+        <item>Muridke</item>
+        <item>Murree</item>
+        <item>Muzaffarabad</item>
+        <item>Muzaffargarh</item>
+        <item>Nawabshah</item>
+        <item>Nowshera</item>
+        <item>Okara</item>
+        <item>Pakpattan</item>
+        <item>Peshawar</item>
+        <item>Pind Dadan Khan</item>
+        <item>Quetta</item>
+        <item>Rahim Yar Khan</item>
+        <item>Rawalakot</item>
+        <item>Rawalpindi</item>
+        <item>Sadiqabad</item>
+        <item>Sahiwal</item>
+        <item>Sargodha</item>
+        <item>Sawabi</item>
+        <item>Shekhupura</item>
+        <item>Shikarpur</item>
+        <item>Sialkot</item>
+        <item>Skardu</item>
+        <item>Sukkur</item>
+        <item>Swabi</item>
+        <item>Swat</item>
+        <item>Tando Adam</item>
+        <item>Tando Allahyar</item>
+        <item>Taxila</item>
+        <item>Thatta</item>
+        <item>Timergara</item>
+        <item>Toba Tek Singh</item>
+        <item>Turbat</item>
+        <item>Vehari</item>
+        <item>Wah Cantonment</item>
+        <item>Wazirabad</item>
+        <item>Ziarat</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_navigation__drawer__home_">Navigation_Drawer_Home_Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="email_address">Email Address</string>
+    <string name="request">Request</string>
+    <string name="home_drawer">Home</string>
+    <string name="my_account_drawer">My Account</string>
+    <string name="other_requests_drawer">Other Requests</string>
+    <string name="post_a_request_drawer">Post a Request</string>
+    <string name="my_requests_drawer">My Requests</string>
+    <string name="contact_us_drawer">Contact Us</string>
+    <string name="view_setting_drawer">View setting</string>
+    <string name="share_app_drawer">Share App</string>
+    <string name="rate_us_drawer">Rate us</string>
+    <string name="signout_drawer">SignOut</string>
+    <string name="address">Address</string>
+    <string name="city_Selection_quote">If your city is not listed,please select \'Other\' and mention your city in description.</string>
+    <string name="themes">Themes</string>
+    <string name="select_a_theme">Select a theme</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select language</string>
+    <string name="Login_Or_Register">Login Or Register</string>
+    <string name="e_mail_verification">E-Mail Verification</string>
+    <string name="update_password">Update Password</string>
+    <string name="update">Update</string>
+</resources>

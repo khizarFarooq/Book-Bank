@@ -1,0 +1,104 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:screenOrientation="portrait"
+    android:layout_marginRight="30dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginTop="20dp"
+    android:gravity="center"
+    tools:context="com.namaltechnologysolutions.bunny.bookbank.Fragment.Post_a_Request_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/post_a_request_headline"
+    android:textColor="@color/skyColor"
+    android:gravity="center"
+    android:scaleX="2"
+    android:scaleY="2"
+    android:textStyle="normal"
+    android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/postARequestName"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:hint="@string/Name"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:background="@color/gray"
+        android:textStyle="bold"/>
+    <EditText
+        android:id="@+id/postARequestphoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:hint="@string/Phone_number"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@color/gray"
+        android:textStyle="bold"/>
+    <EditText
+        android:id="@+id/postARequestAddress"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:hint="@string/address"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@color/gray"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="@string/city_Selection_quote"
+        />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="15dp"
+        android:spinnerMode="dropdown"
+        android:popupBackground="@color/gray"
+        android:id="@+id/postARequestCitySpinner"
+        >
+    </Spinner>
+
+<EditText
+    android:id="@+id/postARequestDescription"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:hint="@string/request"
+    android:textStyle="bold"
+    android:background="@color/gray"
+    android:ellipsize="start"
+    android:gravity="center_horizontal"
+    android:layout_marginTop="15dp"/>
+    <Button
+        android:id="@+id/postARequestSubmitButton"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:background="@color/skyColor"
+        android:text="@string/submit"/>
+    <com.github.ybq.android.spinkit.SpinKitView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/post_A_Request_Progress_Bar"
+        style="@style/SpinKitView.Wave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        app:SpinKit_Color="@color/skyColor" />
+
+</LinearLayout>
+</ScrollView>

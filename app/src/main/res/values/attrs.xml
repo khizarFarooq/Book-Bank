@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="colors">
+        <attr name="skyColor" format="color"/>
+        <attr name="white" format="color"/>
+        <attr name="gray" format="color"/>
+        <attr name="darkGray" format="color"/>
+        <attr name="black" format="color"/>
+        <attr name="blue" format="color"/>
+    </declare-styleable>
+</resources>
